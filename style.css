@@ -13,3 +13,9 @@ table {
 .itog {
   font-weight: bold;
 }
+html tr {
+  color: gray;
+}
+.list > li {
+  color: pink;
+}
