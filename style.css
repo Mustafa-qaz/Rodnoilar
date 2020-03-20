@@ -4,3 +4,12 @@ table {
 [href="#ideveloper"] {
   color: orange;
 }
+.bold {
+  font-weight: bold;
+}
+.color {
+  color: red;
+}
+.itog {
+  font-weight: bold;
+}
